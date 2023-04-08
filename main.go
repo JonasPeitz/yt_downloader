@@ -1,7 +1,7 @@
 package main
 
 import (
-	docs "github.com//docs"
+	docs "github.com/JonasPeitz/yt_downloader/docs"
 	"github.com/gin-gonic/gin"
 	swaggerfiles "github.com/swaggo/files"
 	ginSwagger "github.com/swaggo/gin-swagger"
